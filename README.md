@@ -23,9 +23,32 @@ Modern Software Development: Principles, Patterns, and Practices for 2023
 ### Patterns
 
 - **Design Patterns**
-  - Creational Patterns (Singleton, Factory Method, etc.)
-  - Structural Patterns (Adapter, Bridge, etc.)
-  - Behavioral Patterns (Command, Observer, etc.)
+  - **Creational Patterns**
+    - Singleton
+    - Factory Method
+    - Abstract Factory
+    - Builder
+    - Prototype
+  - **Structural Patterns**
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - Flyweight
+    - Proxy
+  - **Behavioral Patterns**
+    - Chain of Responsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Observer
+    - State
+    - Strategy
+    - Template Method
+    - Visitor
 
 ### Practices
 
